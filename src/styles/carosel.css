@@ -1,0 +1,117 @@
+.card {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  .card button {
+    text-align: center;
+    border-radius: 10px;
+    font-size: 30px;
+    background-color: #4CAF50;
+    text-decoration: none;
+    border: none;
+  }
+
+  .card button a{
+    
+    text-decoration: none;
+    color: white;
+  }
+
+
+  .card button a:hover {
+    color: #e9d35b;
+    font-weight: bolder;
+  }
+  
+  /* MENU ITEM STYLING */
+  
+  .product--image {
+    border-radius: 15px;
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+    box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.2);
+    text-align: center;
+  }
+  .product--image:hover {
+    box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.5);
+    transition: 0.3s ease-in;
+    cursor: pointer;
+  }
+  
+  .product--image img {
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    width: 300px;
+    height: 300px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  
+  @media only screen and (max-width: 1200px) {
+    .projectList {
+      width: 100%;
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr ;
+      justify-content: center;
+    }
+    .projectItem {
+      width: 200px;
+      height: 200px;
+    }
+    .projectItem .bgImage {
+  
+      width: 200px;
+      height: 200px;
+    }
+  }
+  
+  @media only screen and (max-width: 800px) {
+    .projectList {
+      grid-template-columns: 1fr;
+    }
+  }
+  
+  @media only screen and (max-width: 800px) {
+    .projectList {
+      width: 100%;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      justify-content: center;
+    }
+    .projectItem {
+      width: 200px;
+      height: 200px;
+    }
+    .projectItem .bgImage {
+  
+      width: 200px;
+      height: 200px;
+    }
+  }
+  
+  
+  @media only screen and (max-width: 600px) {
+    .projectList {
+      width: 100px;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      justify-content: center;
+    }
+    .projectItem {
+      width: 100px;
+      height: 100px;
+    }
+    .projectItem .bgImage {
+  
+      width: 100px;
+      height: 100px;
+    }
+  }
+  
