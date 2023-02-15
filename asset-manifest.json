@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portafoliorobin/static/css/main.3c1735a6.css",
+    "main.js": "/portafoliorobin/static/js/main.327c2b00.js",
+    "static/js/787.08d32c66.chunk.js": "/portafoliorobin/static/js/787.08d32c66.chunk.js",
+    "static/media/Tiendapokemon.webp": "/portafoliorobin/static/media/Tiendapokemon.72176732ba270f12c05e.webp",
+    "static/media/Javascript.webp": "/portafoliorobin/static/media/Javascript.d006c204c1f231c7c2f0.webp",
+    "static/media/PizzeriaCrud.webp": "/portafoliorobin/static/media/PizzeriaCrud.476cde227fefb3cea2ed.webp",
+    "static/media/css.webp": "/portafoliorobin/static/media/css.3fde324ca9e899d5da67.webp",
+    "static/media/html.webp": "/portafoliorobin/static/media/html.6e2e403d9f3d0075d9ad.webp",
+    "static/media/react.webp": "/portafoliorobin/static/media/react.f9d94417c38784124889.webp",
+    "static/media/mongodb.webp": "/portafoliorobin/static/media/mongodb.f9faa6a487fa07afa370.webp",
+    "static/media/Juego.webp": "/portafoliorobin/static/media/Juego.1ea820b594941f136507.webp",
+    "static/media/revicons.eot": "/portafoliorobin/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/portafoliorobin/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/nodejs.webp": "/portafoliorobin/static/media/nodejs.5eddd3c023caafd6a865.webp",
+    "static/media/revicons.woff": "/portafoliorobin/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/portafoliorobin/index.html",
+    "main.3c1735a6.css.map": "/portafoliorobin/static/css/main.3c1735a6.css.map",
+    "main.327c2b00.js.map": "/portafoliorobin/static/js/main.327c2b00.js.map",
+    "787.08d32c66.chunk.js.map": "/portafoliorobin/static/js/787.08d32c66.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c1735a6.css",
+    "static/js/main.327c2b00.js"
+  ]
+}
