@@ -10,7 +10,7 @@
     text-align: center;
     border-radius: 10px;
     font-size: 30px;
-    background-color: #4CAF50;
+    background-color: #212F3D;
     text-decoration: none;
     border: none;
   }
@@ -27,7 +27,7 @@
     font-weight: bolder;
   }
   
-  /* MENU ITEM STYLING */
+
   
   .product--image {
     border-radius: 15px;
