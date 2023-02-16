@@ -11,7 +11,6 @@ import Juego from "../assets/Juego.webp";
 export default function Carruselv2() {
   const responsive = {
     superLargeDesktop: {
-      // the naming can be any, depends on you.
       breakpoint: { max: 4000, min: 3000 },
       items: 5,
     },
