@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portafoliorobin/static/css/main.3c1735a6.css",
-    "main.js": "/portafoliorobin/static/js/main.327c2b00.js",
+    "main.css": "/portafoliorobin/static/css/main.7fc81882.css",
+    "main.js": "/portafoliorobin/static/js/main.39cac6a2.js",
     "static/js/787.08d32c66.chunk.js": "/portafoliorobin/static/js/787.08d32c66.chunk.js",
     "static/media/Tiendapokemon.webp": "/portafoliorobin/static/media/Tiendapokemon.72176732ba270f12c05e.webp",
     "static/media/Javascript.webp": "/portafoliorobin/static/media/Javascript.d006c204c1f231c7c2f0.webp",
@@ -16,12 +16,12 @@
     "static/media/nodejs.webp": "/portafoliorobin/static/media/nodejs.5eddd3c023caafd6a865.webp",
     "static/media/revicons.woff": "/portafoliorobin/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/portafoliorobin/index.html",
-    "main.3c1735a6.css.map": "/portafoliorobin/static/css/main.3c1735a6.css.map",
-    "main.327c2b00.js.map": "/portafoliorobin/static/js/main.327c2b00.js.map",
+    "main.7fc81882.css.map": "/portafoliorobin/static/css/main.7fc81882.css.map",
+    "main.39cac6a2.js.map": "/portafoliorobin/static/js/main.39cac6a2.js.map",
     "787.08d32c66.chunk.js.map": "/portafoliorobin/static/js/787.08d32c66.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3c1735a6.css",
-    "static/js/main.327c2b00.js"
+    "static/css/main.7fc81882.css",
+    "static/js/main.39cac6a2.js"
   ]
 }
